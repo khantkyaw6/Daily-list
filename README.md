@@ -4,8 +4,6 @@
 
 # 17.1.2023
 
-## Learning
-
 ## Project
 
 - Solo Project
@@ -39,6 +37,14 @@
 
 ## Project
 
-    - testing Code
+- Team Project
+
+  - still fixing parent to child with route issue (done)
+  - need to find a better way
+  - create user
+
+- Solo Project
+
+  -still fixing todoList individual edit (not , need to ask)
 
 </details>
