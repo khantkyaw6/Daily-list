@@ -33,7 +33,7 @@
 
 <details>
 
-<summary>18.3.2023</summary>
+<summary>18.1.2023</summary>
 
 ## Project
 
@@ -45,6 +45,24 @@
 
 - Solo Project
 
-  -still fixing todoList individual edit (not , need to ask)
+  - still fixing todoList individual edit ( need to ask)
+
+</details>
+
+<details>
+
+<summary>
+  19.1.2023
+</summary>
+## Project
+
+- Team Project
+
+  - user create & delete done
+  - need to add todo \*\*
+
+- Learning
+
+- [RTKQuery](https://redux.js.org/tutorials/essentials/part-7-rtk-query-basics)
 
 </details>
