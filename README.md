@@ -66,3 +66,16 @@
 - [RTKQuery](https://redux.js.org/tutorials/essentials/part-7-rtk-query-basics)
 
 </details>
+
+<details>
+
+<summary>20.1.2023</summary>
+
+## Project
+
+- Team Project
+  - Refactor code
+  - Todo list create ( 1 item )
+  - Todo list multi create (still working)
+
+</details>
