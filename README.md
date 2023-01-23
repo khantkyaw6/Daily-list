@@ -54,7 +54,7 @@
 <summary>
   19.1.2023
 </summary>
-  
+
 ## Project
 
 - Team Project
@@ -62,7 +62,7 @@
   - user create & delete done
   - need to add todo \*\*
 
-- Learning
+## Learning
 
 - [RTKQuery](https://redux.js.org/tutorials/essentials/part-7-rtk-query-basics)
 
@@ -78,5 +78,23 @@
   - Refactor code
   - Todo list create ( 1 item )
   - Todo list multi create (still working)
+
+</details>
+
+<details>
+
+<summary>23.1.2023</summary>
+
+## Project
+
+- Team Project
+  - todo list create done ( check falsy value too )
+  - delete todo list still working
+  - update todo list remain
+
+## Learning
+
+- Research
+  - [lodash](https://lodash.com/)
 
 </details>
