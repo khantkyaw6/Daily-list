@@ -98,3 +98,21 @@
   - [lodash](https://lodash.com/)
 
 </details>
+
+<details>
+<summary>24.1.2023</summary>
+
+## Project
+
+- Team Project
+  - Delete Single Todo done (Server delete)
+  - User Edit Form complete(need testing)
+  - Single Todo Edit Form complete (need testing)
+  - Prepare Api slice with axios.post method for User Detail (need testing)
+
+## Research
+
+- [axios POST METHOD](https://axios-http.com/docs/api_intro)
+
+</details>
+
